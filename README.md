@@ -1,3 +1,3 @@
 # harshathout-class
-This is my first git reposity
+This is my first git reposity.
 Author - Harsha
